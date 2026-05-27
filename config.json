@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycender",
+        "uuid": 17250998,
+        "checksum": "d2sler"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
